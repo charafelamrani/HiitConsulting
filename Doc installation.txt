@@ -1,0 +1,13 @@
+1- Tout d'abord commencez par créer une base des données avec le nom: " tchathiitconsulting ".
+2- insérer le fichier sql.sql dans la base de données.
+3- identifiez vous avec l'un de ces identifiants:
+( charaf , uoD4bRfi )
+( kamal, jUPVwWRf )
+( moh , tSShFy92 )
+( aziz , iZhqO0hb )
+(souad , ZdDTuB13 )
+4 - Sinon identifiez vous juste en indiquant un pseudo , 
+un compte sera créé et votre mot de passe aléatoire vous sera communiqué dans une fenêtre pop-up
+5- *une page tchat contenant à gauche les membres avec les messages archivés
+   * au milieu une partie tchat avec tous les membres
+   *à droite la liste de tous les membres connectés (pour une durée de 2 minutes)
